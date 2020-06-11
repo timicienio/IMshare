@@ -6,9 +6,9 @@
 3. 將 `mapGenerator.cpp` 放到 `/map/maps` 資料夾
 4. 編譯它
 
-For **Windows** users:  
-(For **Mac** users, please check out the [`macOS` version](https://github.com/icheft/IMshare)!)  
-回到資料夾介面，按下 `mapGenerator.exe` 執行
+For **Windows** users (for **Mac** users, please check out the [`macOS` version](https://github.com/icheft/IMshare)):  
+
++ 回到資料夾介面，按下 `mapGenerator.exe` 執行
 
 
 ## Result
