@@ -1,3 +1,3 @@
 # IMshare
 
-gonna put some stuff here later.
+see readme.txt.
