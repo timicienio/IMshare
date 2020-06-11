@@ -17,7 +17,7 @@ int main()
 {
     vector<pair<int, int>> barriers;
 
-    // position of barrier, to lazy to make it random, can modify it urself
+    // position of barrier, too lazy to make it random, can modify it urself
     barriers.push_back(make_pair(6, 6));
     barriers.push_back(make_pair(14, 10));
     barriers.push_back(make_pair(20, 11));
