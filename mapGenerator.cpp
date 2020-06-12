@@ -65,7 +65,7 @@ int main()
 
     std::random_device rd;
     std::default_random_engine gen = std::default_random_engine(rd());
-    std::uniform_int_distribution<int> dis(1, MAP_SIZE - 2);
+    std::uniform_int_distribution<int> dis(1, MAP_SIZE.first - 2);
     std::uniform_int_distribution<int> foodScoreDis(1, SCORE_RANGE);
 
     string filename = "";
