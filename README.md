@@ -1,6 +1,7 @@
 # IM 1010 Final Project Grading System (IMshare)
 
 ## Notice
+(Update 6./21)
 請使用助教提供的main.cpp([link](https://drive.google.com/file/d/1flSE5iz6B0bDAKcv2t0MwtqLqQqqNbuM/view?usp=sharing))，之前這裡提供的暫時不再更新。
 
 ## How to Use?
